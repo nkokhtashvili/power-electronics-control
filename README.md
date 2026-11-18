@@ -10,7 +10,7 @@ Three converter control projects, each built up step by step in PLECS: sizing th
 
 All solo work for the **Control of Energy Conversion Systems** and **Control of Electrical Drives** courses at Warsaw University of Technology (2025–2026). Each folder holds the PLECS models and the full report.
 
-The follow-up to the inverter project, a SOGI-PLL designed from scratch, has its own repository: [sogi-pll](https://github.com/nicknika14/sogi-pll).
+The follow-up to the inverter project, a SOGI-PLL designed from scratch, has its own repository: [sogi-pll](https://github.com/nkokhtashvili/sogi-pll).
 
 ---
 
